@@ -19,6 +19,6 @@ Frontend: Angular
 Backend: node.js     
 Frontend: React
 ## Team
-* Julia Weber // Test //
+* Julia Weber
 * Christopher Roos
 * Omer Mohammed
